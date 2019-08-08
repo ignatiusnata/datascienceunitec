@@ -1,2 +1,4 @@
-# How to Use this R Files 
-Bellow is the guideline on how to use the following R files within this repository
+# Hello World File
+
+This is the HelloWorld.md file as per required by the Data Science Lab exercise number 4.
+The link is already submitted in the word document.
